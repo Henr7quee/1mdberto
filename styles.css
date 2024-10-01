@@ -1,4 +1,6 @@
 .listHeader {
     display: flex;
     list-style: none;
+    justify-content: center;
+    justify-items: center;
 }
