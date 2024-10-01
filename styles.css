@@ -9,7 +9,7 @@ body {
 .listHeader {
     display: flex;
     list-style: none;
-    justify-content: space-between;
+    justify-content: space-around;
     justify-items: center;
     text-transform: uppercase;
 }
