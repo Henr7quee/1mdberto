@@ -6,11 +6,14 @@ body {
     color: white;
 }
 
+header{
+    display: flex;
+    justify-content: center;
+}
+
 .listHeader {
     display: flex;
     list-style: none;
-    justify-content: space-around;
-    justify-items: center;
     text-transform: uppercase;
 }
 
