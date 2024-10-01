@@ -3,6 +3,7 @@ body {
     height: 100vh;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 11%, rgba(0,212,255,1) 100%, rgba(0,212,255,1) 107%);
+    color: white;
 }
 
 .listHeader {
@@ -10,6 +11,5 @@ body {
     list-style: none;
     justify-content: center;
     justify-items: center;
-    color: white;
     text-transform: uppercase;
 }
