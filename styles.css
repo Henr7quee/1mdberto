@@ -12,7 +12,7 @@ body {
     justify-content: space-around;
     justify-items: center;
     text-transform: uppercase;
-    box-shadow: 0, 15, 0, black;
+    box-shadow: 0px, 15px, 0px, black;
 }
 
 #divHs {
