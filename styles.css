@@ -10,4 +10,6 @@ body {
     list-style: none;
     justify-content: center;
     justify-items: center;
+    color: white;
+    text-transform: uppercase;
 }
