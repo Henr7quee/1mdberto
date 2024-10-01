@@ -13,3 +13,7 @@ body {
     justify-items: center;
     text-transform: uppercase;
 }
+
+#divHs {
+    text-align: center;
+}
