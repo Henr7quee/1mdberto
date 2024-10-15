@@ -21,7 +21,8 @@ header {
 }
 
 .navItem:hover {
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
     cursor: pointer;
+    color: white;
     border-radius: 10px;
 }
