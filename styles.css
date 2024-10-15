@@ -11,8 +11,8 @@ header {
     justify-content: center;
 }
 
-.listHeader {
+.navList {
     display: flex;
     list-style: none;
-    text-transform: uppercase;
+    font-size: 48px;
 }
