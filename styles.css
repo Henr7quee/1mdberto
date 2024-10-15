@@ -18,3 +18,7 @@ header {
     gap: 28px;
     text-transform: uppercase;
 }
+
+.navItem:hover {
+    background-color: black;
+}
