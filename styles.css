@@ -14,7 +14,7 @@ header {
 .navLista {
     display: flex;
     list-style: none;
-    font-size: 48px;
+    font-size: 38px;
     gap: 28px;
     color: white;
     text-transform: uppercase;
