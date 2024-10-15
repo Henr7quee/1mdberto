@@ -16,6 +16,7 @@ header {
     list-style: none;
     font-size: 48px;
     gap: 28px;
+    color: black;
     text-transform: uppercase;
 }
 
