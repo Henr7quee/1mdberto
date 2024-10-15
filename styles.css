@@ -21,4 +21,5 @@ header {
 
 .navItem:hover {
     background-color: black;
+    cursor: pointer;
 }
