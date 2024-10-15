@@ -11,8 +11,9 @@ header {
     justify-content: center;
 }
 
-.navList {
+.navLista {
     display: flex;
     list-style: none;
     font-size: 48px;
+    gap: 28px;
 }
