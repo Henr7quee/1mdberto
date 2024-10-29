@@ -26,3 +26,7 @@ header {
     color: black;
     border-radius: 10px;
 }
+
+main ul {
+    list-style: none;
+}
