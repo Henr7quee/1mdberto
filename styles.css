@@ -20,6 +20,11 @@ header {
     text-transform: uppercase;
 }
 
+.navLista a {
+    text-decoration: none;
+    color: white;
+}
+
 .navItem:hover {
     background-color: rgb(255, 255, 255);
     cursor: pointer;
