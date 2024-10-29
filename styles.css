@@ -15,6 +15,10 @@ header {
     justify-content: center;
 }
 
+h2 {
+    margin-inline-start: 30px;
+}
+
 .navLista {
     display: flex;
     list-style: none;
