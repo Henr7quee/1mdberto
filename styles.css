@@ -25,7 +25,11 @@ header {
     color: white;
 }
 
-.navItem:hover, .navLista:hover {
+.navLista a:hover {
+    color: black;
+}
+ 
+.navItem:hover {
     background-color: rgb(255, 255, 255);
     cursor: pointer;
     color: black;
