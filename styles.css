@@ -26,8 +26,6 @@ h2 {
     gap: 28px;
     color: white;
     text-transform: uppercase;
-    overflow: hidden;
-    overflow-x: scroll;
 }
 
 .navLista a {
@@ -50,4 +48,6 @@ main ul {
     list-style: none;
     display: flex;
     gap: 20px;
+    overflow: hidden;
+    overflow-x: scroll;
 }
