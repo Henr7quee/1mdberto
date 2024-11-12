@@ -4,7 +4,6 @@ body {
     margin: 0%;
     background: linear-gradient(110deg, rgb(150, 0, 150), cyan);
     color: white;
-    background-repeat: no-repeat;
 }
 
 html {
