@@ -43,8 +43,3 @@ h2 {
     color: black;
     border-radius: 10px;
 }
-
-main ul {
-    list-style: none;
-    display: flex;
-}
