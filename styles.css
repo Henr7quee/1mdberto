@@ -26,6 +26,8 @@ h2 {
     gap: 28px;
     color: white;
     text-transform: uppercase;
+    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .navLista a {
