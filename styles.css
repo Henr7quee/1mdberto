@@ -4,6 +4,8 @@ body {
     margin: 0%;
     background: linear-gradient(110deg, rgb(150, 0, 150), cyan);
     color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 html {
@@ -49,5 +51,5 @@ main ul {
     display: flex;
     gap: 20px;
     overflow: hidden;
-    overflow-x: hidden;
+    overflow-x: auto;
 }
