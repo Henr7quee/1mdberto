@@ -54,3 +54,8 @@ h2 {
     overflow: hidden;
     gap: 10vw;
 }
+
+.moldura_videos li {
+    width: 200px;
+    height: 200px;
+}
