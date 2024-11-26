@@ -64,6 +64,14 @@ ul {
     overflow-x: auto;
 }
 
+.secao ul li {
+    transition: 200ms;
+}
+
+.secao ul li:hover {
+    border: 2px solid white;
+}
+
 .titulo_section {
     font-size: 5mm;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
