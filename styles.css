@@ -52,6 +52,10 @@ ul {
     border-radius: 10px;
 }
 
+.secao {
+    width: 100%;
+}
+
 .secao ul {
     display: flex;
     gap: 1vw;
