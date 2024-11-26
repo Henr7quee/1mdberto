@@ -67,10 +67,11 @@ ul {
 .secao ul li {
     transition: 200ms;
     margin-bottom: 0%;
+    border-radius: 5px;
 }
 
 .secao ul li:hover {
-    border: 2px solid white;
+    border: 1px solid white;
 }
 
 .titulo_section {
