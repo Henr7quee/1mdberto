@@ -54,4 +54,5 @@ ul {
 
 .secao ul {
     display: flex;
+    gap: 10vw;
 }
