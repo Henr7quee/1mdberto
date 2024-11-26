@@ -51,3 +51,7 @@ ul {
     color: black;
     border-radius: 10px;
 }
+
+.secao ul {
+    display: flex;
+}
