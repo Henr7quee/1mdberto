@@ -55,4 +55,5 @@ ul {
 .secao ul {
     display: flex;
     gap: 1vw;
+    padding-left: 0%;
 }
