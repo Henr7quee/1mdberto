@@ -68,6 +68,7 @@ ul {
 
 .secao ul li {
     transition: 200ms;
+    margin-bottom: 0%;
 }
 
 .secao ul li:hover {
