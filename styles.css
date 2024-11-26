@@ -80,4 +80,5 @@ ul {
 
 .moldura_videos {
     flex-wrap: wrap;
+    justify-content: space-around;
 }
