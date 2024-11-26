@@ -6,6 +6,10 @@ body {
     color: white;
 }
 
+main {
+    padding-left: 10px;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -49,5 +53,4 @@ h2 {
     display: flex;
     overflow: hidden;
     gap: 10vw;
-    margin-left: 5vw;
 }
