@@ -49,4 +49,5 @@ h2 {
     display: flex;
     overflow: hidden;
     gap: 10vw;
+    margin-left: 5vw;
 }
