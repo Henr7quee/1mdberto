@@ -23,6 +23,10 @@ h2 {
     margin-inline-start: 40px;
 }
 
+ul {
+    list-style: none;
+}
+
 .navLista {
     display: flex;
     list-style: none;
