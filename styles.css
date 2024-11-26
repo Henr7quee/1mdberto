@@ -47,15 +47,3 @@ h2 {
     color: black;
     border-radius: 10px;
 }
-
-.secao ul {
-    list-style: none;
-    display: flex;
-    overflow: hidden;
-    gap: 10vw;
-}
-
-.moldura_videos li {
-    width: 100px;
-    height: 300px;
-}
